@@ -29,7 +29,7 @@ admin / admin123
 W IntelliJ IDEA otwórz folder:
 
 ```txt
-backend
+Main
 ```
 
 Następnie uruchom klasę:
