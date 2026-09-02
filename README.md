@@ -59,6 +59,7 @@ GET http://localhost:8080/api/admin/check
 ## Uruchomienie frontendu
 
 ```bash
+cd src
 cd frontend
 npm install
 npm start
